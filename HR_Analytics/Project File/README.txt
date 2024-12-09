@@ -4,3 +4,4 @@ Here is how to change the path:
 # Once you open the power bi report, Go to Home tab.
 # In home ribbon click on the dropdown icon under Transform Data option.
 # Now click the Data Source settings.
+# Now change the Data source path for each files and Thats it.
